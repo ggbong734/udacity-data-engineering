@@ -26,7 +26,7 @@ Proficiencies used: NoSQL database, Apache Cassandra, Database denormalization
 
 ## Project 3: [Data Warehousing in Amazon Redshift](https://github.com/ggbong734/udacity-data-engineering/tree/master/data_warehousing_redshift)
 
-<p align="center"><img src="data_warehousing_redshift/amazon_redshift_logo1.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="data_warehousing_redshift/amazon_redshift_logo1.png" style="height: 75%; width: 75%; max-width: 200px" /></p>
 
 Created a database warehouse utilizing Amazon Redshift. Tasks include:
 * Create AWS Redshift cluster/instance, IAM Roles, Security groups
@@ -38,7 +38,7 @@ Technologies used: Python, Amazon Redshift, SQL, PostgreSQL
 
 ## Project 4: [Data Lake using PySpark](https://github.com/ggbong734/udacity-data-engineering/tree/master/data_lake_etl_pyspark)
 
-<p align="center"><img src="data_lake_etl_pyspark/spark_logo1.jpg" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="data_lake_etl_pyspark/spark_logo1.jpg" style="height: 70%; width: 70%; max-width: 200px" /></p>
 
 Enabled distributed computing in the ETL pipeline in project 3 by utilizing PySpark and moving the data to a data lake. Tasks include:
 * Extract, process, and load data in S3 using Spark and load them to a data lake in S3
